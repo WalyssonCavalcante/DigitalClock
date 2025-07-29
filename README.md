@@ -17,7 +17,7 @@ Um relógio digital estilizado com **efeito neon**, que exibe as horas, minutos 
 1. Clone este repositório:
 
 ```sh
- git clone (https://github.com/WalyssonCavalcante/DigitalClock.git)
+ git clone https://github.com/WalyssonCavalcante/DigitalClock.git
 ```
 
 2. acesse a pasta do projeto:
